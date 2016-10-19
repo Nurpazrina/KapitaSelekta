@@ -1,7 +1,5 @@
 **Latar Belakang Masalah**
 
-<img src="./media/image1.jpeg" width="624" height="426" />
-
 Dijaman Yang semakin modern ini semakin banyaknya teknologi yang semakin berkembang sangat pesat terutama dalam hal sosial media yang saling berhubungan antara luar negeri dan dalam negeri. Sosial media hal yang sangat pesat dibanding teknologi manapun karena sosial media bisa membantu kita berhubungan dengan orang lain tanpa harus bertemu. Khususnya pada situs Github yang sekarang ini sedang ramai dipakai dan diperbincangkan oleh orang-orang. 
 
 **Isi**
@@ -22,7 +20,7 @@ Command-Command yang ada pada github:
 
 -   git push origin master = mengupload file komputer ke repository
 
-         Didalah github itu sendiri terdapat ssh-keygen, ssh-keygen itu sendiri untuk membuat keamanan saat mengakses repository yang kita telah buat. Karena tanpa ssh-keygen tidak dapat mengakses github dengan aplikasi Git.
+         Didalam github itu sendiri terdapat ssh-keygen, ssh-keygen itu sendiri untuk membuat keamanan saat mengakses repository yang kita telah buat. Karena tanpa ssh-keygen tidak dapat mengakses github dengan aplikasi Git.
 
 **Kesimpulan **  
 
